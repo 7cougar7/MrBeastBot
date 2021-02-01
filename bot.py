@@ -11,7 +11,7 @@ MrBeast = commands.Bot(command_prefix='~~~~')
 @MrBeast.event
 async def on_voice_state_update(member, before, after):
     if before.channel is not None and after.channel is None:
-        if before.channel.id == 787104010770710602:
+        if before.channel.id == 759201663893372928:
             await member.guild.system_channel.send('<@' + str(member.id) + '> has been eliminated')
 
 
