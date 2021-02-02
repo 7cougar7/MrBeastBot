@@ -14,9 +14,12 @@ emoji_list = [':+1:', ':alien:']
 
 # voice_channel = 787104010770710602
 # text_channel = 787104010770710601
-# discord_bot_id = 805899012884004875
-voice_channel = 710263942450249762
-text_channel = 710263942450249761
+# voice_channel = 710263942450249762
+# text_channel = 710263942450249761
+
+voice_channel = 759201663893372928
+text_channel = 801987244138168330
+
 discord_bot_id = 805899012884004875
 
 
